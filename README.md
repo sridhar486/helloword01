@@ -1,2 +1,6 @@
 # helloword01
-This is a hello world second programm
+Hello Brothers,
+
+ Humans are not permanent here on earth.Just vigilant to that.
+
+
